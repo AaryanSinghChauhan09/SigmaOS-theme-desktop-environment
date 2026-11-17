@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-theme-desktop-environment"
-description = "SigmaOS subsystem component for theme-desktop-environment"
+description = "Desktop-shell theme (Cinnamon-style)"
 version = "0.1.0"
 tier = 4
 
